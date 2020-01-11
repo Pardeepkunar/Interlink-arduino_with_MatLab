@@ -1,5 +1,7 @@
 # Interlink-arduino_with_MatLab
 
+# click on <>Code all file and Steps there
+
 #first make new folder name "arduinoIO" in Local Disk(C)
 
 #next downlode two file "adioes" & "arduino" both file copy on "arduinoIO" folder
